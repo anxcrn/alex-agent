@@ -4,10 +4,10 @@
 
 # Alex Agent ☤
 <p align="center">
-  <a href="https://alex-agent.nousresearch.com/">Alex Agent</a> | <a href="https://alex-agent.nousresearch.com/">Alex Desktop</a>
+  <a href="https://alex-agent.nexus.com/">Alex Agent</a> | <a href="https://alex-agent.nexus.com/">Alex Desktop</a>
 </p>
 <p align="center">
-  <a href="https://alex-agent.nousresearch.com/docs/"><img src="https://img.shields.io/badge/Docs-alex--agent-FFD700?style=for-the-badge" alt="Documentation"></a>
+  <a href="https://alex-agent.nexus.com/docs/"><img src="https://img.shields.io/badge/Docs-alex--agent-FFD700?style=for-the-badge" alt="Documentation"></a>
   <a href="https://discord.gg/NousResearch"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT"></a>
   <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/Lang-中文-red?style=for-the-badge" alt="中文"></a>
@@ -67,7 +67,7 @@ Interact with the evolution engine directly from the chat:
 ### Linux, macOS, WSL2, Termux
 
 ```bash
-curl -fsSL https://alex-agent.nousresearch.com/install.sh | bash
+curl -fsSL https://alex-agent.nexus.com/install.sh | bash
 ```
 
 ### Windows (native, PowerShell)
@@ -75,7 +75,7 @@ curl -fsSL https://alex-agent.nousresearch.com/install.sh | bash
 Run this in PowerShell:
 
 ```powershell
-iex (irm https://alex-agent.nousresearch.com/install.ps1)
+iex (irm https://alex-agent.nexus.com/install.ps1)
 ```
 
 The installer handles everything: uv, Python 3.11, Node.js, ripgrep, ffmpeg, and portable Git Bash.
